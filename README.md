@@ -13,6 +13,9 @@ En théorie,les notebooks devraient avoir gardé en mémoire les derniers résul
 
 Il y également un notebook qui pour réaliser le pré-processing des images et un notebook pour la classification en temps réel.
 
+J'ai également inclus le modèle VGG16 entrainé sur le premier dataset, utile pour essayer la classification en temps réel.
+Le poids du modèle est d'environ 200 Mo.
+
 Pour la classification en temps réel, le script est configuré pour une webcam de 480x720 pixels.
 
 ### Codes utilisés :
